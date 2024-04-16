@@ -21,7 +21,7 @@ https://github.com/abifaizal/peramalan_penjualan.git
 
 # PERBEDAAN:
 - LAMAN LOGIN
-  before
+  before ![Cuplikan layar 2024-04-16 193737](https://github.com/nellaver/peramalan_penjualan_master/assets/167212827/3edee95e-02b0-4a6e-b612-91c67f2deefd)
   after
 - HOME
 - profil
