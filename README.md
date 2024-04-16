@@ -21,11 +21,26 @@ https://github.com/abifaizal/peramalan_penjualan.git
 
 # PERBEDAAN:
 - LAMAN LOGIN
-  before ![Cuplikan layar 2024-04-16 193737](https://github.com/nellaver/peramalan_penjualan_master/assets/167212827/3edee95e-02b0-4a6e-b612-91c67f2deefd)
-  after
+  before 
+  after  ![Cuplikan layar 2024-04-16 193737](https://github.com/nellaver/peramalan_penjualan_master/assets/167212827/3edee95e-02b0-4a6e-b612-91c67f2deefd)
 - HOME
+  before
+  after ![Cuplikan layar 2024-04-16 172313](https://github.com/nellaver/peramalan_penjualan_master/assets/167212827/3255064d-69a9-4e2c-8d6d-01dac2557980)
 - profil
-- Data Obat
-- Data pegawai
-- data suplier
+  before
+  after
+- hapus Data Obat
+  before
+  after ![Cuplikan layar 2024-04-16 172313](https://github.com/nellaver/peramalan_penjualan_master/assets/167212827/28473e73-9ddb-42a5-9f20-41cff65f3049)
+  ![Cuplikan layar 2024-04-16 193824](https://github.com/nellaver/peramalan_penjualan_master/assets/167212827/f778f7cc-9e4c-4be0-b75e-d351a4930351)
+- hapus Data pegawai
+  before 
+  after ![Cuplikan layar 2024-04-16 172806](https://github.com/nellaver/peramalan_penjualan_master/assets/167212827/a8364ce2-b01d-43b3-8f20-7a6538faad17)
+-  hapus data suplier
+  before
+  after
 - transaksi penjualan
+  before
+  after
+
+#ERD 
