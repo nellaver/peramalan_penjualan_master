@@ -26,7 +26,7 @@ https://github.com/abifaizal/peramalan_penjualan.git
 - HOME
   before ![Gambar WhatsApp 2024-04-16 pukul 20 15 51_92eb5e89](https://github.com/nellaver/peramalan_penjualan_master/assets/167212827/94b4766e-62f3-4626-86ac-26e652f699aa)
 
-  after ![Cuplikan layar 2024-04-16 172313](https://github.com/nellaver/peramalan_penjualan_master/assets/167212827/3255064d-69a9-4e2c-8d6d-01dac2557980)
+  after ![Cuplikan layar 2024-04-16 172252](https://github.com/nellaver/peramalan_penjualan_master/assets/167212827/132d2fb7-96ac-4103-976c-aafc20bdceba)
    ![Cuplikan layar 2024-04-16 193824](https://github.com/nellaver/peramalan_penjualan_master/assets/167212827/f778f7cc-9e4c-4be0-b75e-d351a4930351)
 - profil
   before ![Gambar WhatsApp 2024-04-16 pukul 20 15 50_1942c357](https://github.com/nellaver/peramalan_penjualan_master/assets/167212827/f8b75090-2777-459b-8d7a-303d0f370daf)
