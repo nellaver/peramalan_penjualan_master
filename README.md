@@ -16,3 +16,16 @@ Cara install di localhost :
 - Ubah data untuk koneksi ke localhost anda dengan mengubah file "koneksi.php".
 - Siap di akses melalui localhost.
 - username / pasword : admin / admin.
+REFERENSI:
+https://github.com/abifaizal/peramalan_penjualan.git
+
+# PERBEDAAN:
+- LAMAN LOGIN
+  before
+  after
+- HOME
+- profil
+- Data Obat
+- Data pegawai
+- data suplier
+- transaksi penjualan
