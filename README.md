@@ -39,10 +39,11 @@ https://github.com/abifaizal/peramalan_penjualan.git
   before ![Gambar WhatsApp 2024-04-16 pukul 20 15 52_39f7f8b6](https://github.com/nellaver/peramalan_penjualan_master/assets/167212827/ee72cb6d-3383-45e5-8b96-9d6b92d30fec)
   after ![Cuplikan layar 2024-04-16 193923](https://github.com/nellaver/peramalan_penjualan_master/assets/167212827/618a4112-4800-478f-a181-e4517710e0f5)
 -  hapus data suplier
-  before
-  after
-- transaksi penjualan
-  before
-  after
+  before ![Gambar WhatsApp 2024-04-16 pukul 20 15 50_4ecf7adb](https://github.com/nellaver/peramalan_penjualan_master/assets/167212827/0bda2315-dc44-434f-9d11-ac7f15d93200)
+  after ![Cuplikan layar 2024-04-16 194056](https://github.com/nellaver/peramalan_penjualan_master/assets/167212827/7f84621b-d074-41c7-be15-4d191f584492)
+- transaksi pembelian obat
+  before ![Gambar WhatsApp 2024-04-16 pukul 20 15 53_c3a5ce1d](https://github.com/nellaver/peramalan_penjualan_master/assets/167212827/e5c55d17-f26a-4c4a-a1f3-2e3ee0a9efe6)
+  after ![Cuplikan layar 2024-04-16 194256](https://github.com/nellaver/peramalan_penjualan_master/assets/167212827/8e8ff2ee-2fc1-45ce-b043-5774460cb467)
 
 #ERD 
+![ERD](https://github.com/nellaver/peramalan_penjualan_master/assets/167212827/7ee21a55-dee9-4836-bdd4-76f3dfa4c3a3)
