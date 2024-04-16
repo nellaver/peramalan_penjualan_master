@@ -37,7 +37,7 @@ https://github.com/abifaizal/peramalan_penjualan.git
  
 - hapus Data pegawai
   before ![Gambar WhatsApp 2024-04-16 pukul 20 15 52_39f7f8b6](https://github.com/nellaver/peramalan_penjualan_master/assets/167212827/ee72cb6d-3383-45e5-8b96-9d6b92d30fec)
-  after ![Cuplikan layar 2024-04-16 172806](https://github.com/nellaver/peramalan_penjualan_master/assets/167212827/a8364ce2-b01d-43b3-8f20-7a6538faad17)
+  after ![Cuplikan layar 2024-04-16 193923](https://github.com/nellaver/peramalan_penjualan_master/assets/167212827/618a4112-4800-478f-a181-e4517710e0f5)
 -  hapus data suplier
   before
   after
